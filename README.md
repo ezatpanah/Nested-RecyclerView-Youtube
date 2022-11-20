@@ -11,7 +11,7 @@ YouTube Video :
 
 Article on Medium:
 <br>
-
+https://androidgeek.co/how-to-use-nested-recyclerview-in-kotlin-part-1-33127c1be828
 <br>
 <br>
 
